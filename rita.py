@@ -16,7 +16,7 @@ intents = discord.Intents().all()
 client = discord.Client(intents=intents)
 bot = commands.Bot(command_prefix='_',intents=intents)
 
-token = "OTY1NjgxMTg1NzY0MzA3MDE2.Yl2usA.7k-v2G3-pPVWo5O5KCLmD1khs7U"
+token = "OTY1NjgxMTg1NzY0MzA3MDE2.Yl2usA.79THxHq8g1S47vgkqmJe-YRk6OY"
 
 curseWord = ['херово']
 
